@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am an enthusiastic programmer, professor, and co-founder of Spote Brasil. My main skills include programming in Object Pascal using Delphi and Lazarus, as well as database management. I have a passion for the intricacies of programming, focusing on the logic and processes that occur behind the scenes in applications rather than the visual aspects.
+I am an enthusiastic programmer, teacher, and co-founder of Spote Brasil. My main skills include programming in Object Pascal using Delphi and Lazarus, as well as database management. I have a passion for the intricacies of programming, focusing on the logic and processes that occur behind the scenes in applications rather than the visual aspects.
 
 ## Projects 
 
